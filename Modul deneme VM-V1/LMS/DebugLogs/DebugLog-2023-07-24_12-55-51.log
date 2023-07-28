@@ -1,0 +1,9 @@
+2023-07-24 12:55:51
+OS Version     : Windows-10-10.0.19045-SP0||AMD64
+Python Version : 3.11.1 (tags/v3.11.1:a7a450f, Dec  6 2022, 19:58:39) [MSC v.1934 64 bit (AMD64)]
+Current working dir: C:\Users\ahmet\OneDrive\Desktop\Modul deneme VM
+Debug & Log Folder : C:\Users\ahmet\OneDrive\Desktop\Modul deneme VM\LMS\DebugLogs\
+2023-07-24 12:55:52>> ["Modbus lib 'pyModbusTCP' is imported"]
+2023-07-24 12:55:52>> ['Args exception => list index out of range107.218.3.14:1502']
+2023-07-24 12:55:52>> ['Socket settings => 107.218.3.14:1502']
+2023-07-24 12:55:52>> ['Modbus Client Obj generated']
